@@ -1,5 +1,9 @@
 # DIY Coronavirus map
-A map of coronavirus cases per 1 milion people. Made with Google Colab in Python
+A map of coronavirus cases per 1 milion people. Made with Jupyter Notebook in Python.
+
+Instruction: 
+
+Go to Colab Google, upload .ipynb file, download datasets and upload to your colab project. 
 
 sources: 
 
